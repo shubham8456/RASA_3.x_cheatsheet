@@ -400,7 +400,7 @@ https://rasa.com/docs/rasa/writing-stories#handling-context-switching
 
 - You can use either of Rules and Stories for context switching as per the requirement
 
-- Example of context switching using Stories, if you want to switch context upon a user ask and then return to the original flow after that ask is complete:
+- Example of context switching using Stories, if you want to switch context upon a user ask and then return to the original flow after that ask is complete:<br/>
 ![Example of Context Switching using Stories](/images/context_switching_using_stories.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You will need to create a story that describes this context-switching interaction:
